@@ -1,6 +1,7 @@
 '''
 Leeds 2019
 Animation of simple SIR model.
+Provided by Professor Grant Lythe
 Plots of S vs I, S vs time and I vs time.
 '''
 import matplotlib.pyplot as plt
