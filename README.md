@@ -13,4 +13,12 @@ Link to obtain LaTex type setting software:
 
 https://www.latex-project.org/get/
 
+alternatively you can create an Overleaf account and use a cloud based solution.
+
+https://www.overleaf.com
+
+You will need to sign up for a free account. An example of using LaTex can be found using the link below.
+
+https://www.overleaf.com/8854116997pvqqxnfqqmsr
+
 
