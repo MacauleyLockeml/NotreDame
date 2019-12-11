@@ -9,7 +9,7 @@ https://www.spyder-ide.org
 
 It is recommended you install Python 3 instead of Python 2
 
-Link to obtain LaTex a type setting software:
+Link to obtain LaTex type setting software:
 
 https://www.latex-project.org/get/
 
